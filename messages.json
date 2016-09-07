@@ -1,0 +1,67 @@
+[
+    {
+        "message":{
+            "text":"Get me to the church on time....",
+            "start":"0000-00-00 00:00:00",
+            "duration":"01:00:00",
+            "repeat":{
+              "frequency": "weekly",
+              "until":"3000-12-31 00:00:00"
+            }
+        }
+    },
+    {
+        "message":{
+            "text":"I could have danced all night...",
+            "start":"0000-00-00 00:00:00",
+            "duration":"01:00:00",
+            "repeat":"never"
+        }
+    },
+    {
+        "message":{
+            "text":"If I were a rich man, deidl deedl deedl deedle deidl deedl deidl tweedle deedle dum...",
+            "start":"0000-00-00 00:00:00",
+            "duration":"01:00:00",
+            "repeat":{
+              "frequency": "daily",
+              "until":"3000-12-31 00:00:00"
+            }
+
+        }
+    },
+    {
+        "message":{
+            "text":"I'm gonna wash that man right outta my hair.",
+            "start":"0000-00-00 00:00:00",
+            "duration":"01:00:00",
+            "repeat":{
+              "frequency": "monthly",
+              "until":"3000-12-31 00:00:00"
+            }
+
+        }
+    },
+    {
+        "message":{
+            "text":"Gimme gimme gimme gimme gimme what I want!",
+            "start":"0000-00-00 00:00:00",
+            "duration":"01:00:00",
+            "repeat":{
+              "frequency": "yearly",
+              "until":"3000-12-31 00:00:00"
+            }
+        }
+    },
+    {
+        "message":{
+            "text":"In olden days a glipmse of stocking was looked on as something shocking now heaven knows...anything goes...",
+            "start":"0000-00-00 00:00:00",
+            "duration":"01:00:00",
+            "repeat":{
+              "frequency": "fortnightly",
+              "until":"3000-12-31 00:00:00"
+            }
+        }
+    }
+]
